@@ -1,8 +1,7 @@
 # How to Set Up v2ray SNI on HTTP Custom for Secure Browsing
 
-! [  How to Set Up v2ray SNI on HTTP Custom for Secure Browsing] (https://github.com/Terapanch/How-to-Set-Up-v2ray-SNI-on-HTTP-Custom-for-Secure-Browsing/blob/main/1685847730872388-0.jpg)
 
-<img src="https://125tech.online/wp-content/uploads/2024/04/1685847730872388-0-1-1024x581.jpg" alt="Alt Text">
+<img src="https://125tech.online/wp-content/uploads/2024/04/1685847730872388-0-1-1024x581.jpg" alt=" How to Set Up v2ray SNI on HTTP Custom for Secure Browsing">
 
 Welcome to our comprehensive guide on setting up v2ray SNI on HTTP Custom! Here, you’ll discover how to configure your VPN connection for enhanced security and unrestricted access to online content. Whether you’re new to v2ray VMESS or VLESS accounts or a seasoned user, we’ve crafted this tutorial to be simple and intuitive.
 
